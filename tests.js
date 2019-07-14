@@ -5,6 +5,9 @@ if (index.name === "Susan") {
 } else {
     console.log("Expected: Susan, Received: "+index.name)
 }
+if (index.height === 74) {
+  console.log("The name is correct")
+}
 
 
 
